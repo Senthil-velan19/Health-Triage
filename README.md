@@ -223,8 +223,3 @@ To train or re-quantize the MobileViT vision model locally:
    - Export to ONNX format.
    - Quantize to INT8 (`model_quantized.onnx`), shrinking the model to **~5.6 MB** for fast browser load times.
 
----
-
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
